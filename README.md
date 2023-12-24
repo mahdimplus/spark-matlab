@@ -25,7 +25,7 @@ SPARK is currently available on GitHub:
  - https://github.com/multifunkim/spark-hpc (HPC version)
  - https://github.com/multifunkim/spark-cbrain (CBRAIN plugin)
 
-------------
+-----------
 
 # Citation
 
